@@ -1,7 +1,7 @@
 ## 教程
 ### Kotlin 简明教程
-[1_基本语法)(/Kotlin/1_KotlinBasisSyntax)
-2_KotlinBasicDataType.kt 基本数据类型
+1. [基本语法](/Kotlin/1_KotlinBasisSyntax)
+2. [基本数据类型](/Kotlin/2_KotlinBasicDataType.kt)
 3_KotlinConditionControl.kt 条件控制
 4_KotlinClassObject.kt 类和对象
 5_KotlinExtention. Kotlin 扩展

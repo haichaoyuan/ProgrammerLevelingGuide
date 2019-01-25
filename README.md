@@ -1,8 +1,12 @@
 # 程序员指南
+## 零
+
+[基础工具](https://github.com/afkT/DevUtils)
+
 ## 一. Java 篇
 ### Java 书籍
 1. 《Thinking in Java》，又名《Java 编程思想》，系统，经典
-2. 《Effective Java 》，进阶
+2. 《Effective Java》，进阶
 3. 《Java Concurrency in Practice》，又名《Java 并发编程实战》，循序渐进，并发编程理论-> 结构化并发应用 -> 性能与测试 -> 显式锁、原子变量、非阻塞算法
 4. 《Java Performance》，又名《Java 性能优化权威指南》，包含算法结构、内存、IO、磁盘
 
