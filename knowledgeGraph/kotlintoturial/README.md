@@ -1,5 +1,5 @@
 ### Kotlin 简明教程
-1. [Kotlin基本语法](./src/main/java/com.hc.kotlintoturial/1_KotlinBasisSyntax.kt)
+1. [Kotlin基本语法](./src/main/java/java/com/hc/kotlintoturial1_KotlinBasisSyntax.kt)
 2. [Kotlin基本数据类型](./src/main/java/com.hc.kotlintoturial2_KotlinBasicDataType.kt)
 3. [Kotlin条件控制](./src/main/java/com.hc.kotlintoturial/3_KotlinConditionControl.kt) 
 4. [Kotlin类和对象](./src/main/java/com.hc.kotlintoturial/4_KotlinClassObject.kt) 
