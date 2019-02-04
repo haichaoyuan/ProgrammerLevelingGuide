@@ -3,6 +3,8 @@
 
 [基础工具](https://github.com/afkT/DevUtils)
 
+## X. Kotlin 篇
+1. [Kotlin 简明教程](/): Android 以后的官方语言。
 ## 一. Java 篇
 ### Java 书籍
 1. 《Thinking in Java》，又名《Java 编程思想》，系统，经典
